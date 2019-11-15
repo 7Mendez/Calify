@@ -27,3 +27,7 @@ git checkout master
 
 
 LISTO!
+
+
+git config --global user.email"tu@email.com"
+git config --global user.name"tunombre"
