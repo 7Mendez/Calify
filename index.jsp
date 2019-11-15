@@ -18,9 +18,9 @@
             <table align="center" width="100%">
                    
                     <tr align="center">
-                        <td><img src="imagen/menu/maestros.png" width="150px" alt="" /></td>
-                        <td><img src="imagen/menu/alumnosss.png" width="150px" alt="" /></td>
-                        <td><img src="imagen/menu/REGISTRAR.png" width="150px" alt="" /></td>
+                        <td><img src="imagen/menu/maestros.png" width="150px" alt="" /><h4 align="center">D O C E N T E S</h4></td>
+                        <td><img src="imagen/menu/alumnosss.png" width="150px" alt="" /><h4 align="center">A L U M N O S</h4></td>
+                        <td><img src="imagen/menu/REGISTRAR.png" width="150px" alt="" /><h4 align="center">R E G I S T R A R</h4></td>
                     </tr>
                     <tr align="center">
                         <td>&nbsp;</td>
