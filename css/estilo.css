@@ -9,6 +9,7 @@
     height: 370px;
     margin: auto;
     margin-top: 100px;
+    font-family: 'Raleway', sans-serif;
 }
 
 #form1{
@@ -32,7 +33,7 @@
     font-size: 15px;
     font-weight: bold;
     text-align: center;
-
+    font-family: 'Raleway', sans-serif;
 
 }
 #form1 input[type="submit"]{
@@ -48,11 +49,13 @@
 }
 #form1 input[type="submit"]:hover{
     background: #b388ff ;
+    font-family: 'Raleway', sans-serif;
 
 }
 #form1 hr{
     margin-bottom: 40px;
     color: #aed6f1;
+    font-family: 'Raleway', sans-serif;
 
 }
 #contenedor2{
