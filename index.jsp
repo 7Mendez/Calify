@@ -23,7 +23,7 @@
 						</tr>
 						<tr align="center">
 							<td>&nbsp;</td>
-							<td><img src="imagen/user.png" width="60px" alt="" />
+							<td><img src="imagen/user2.png" width="60px" alt="" />
 							</td>
 							<td>&nbsp;</td>
 						</tr>
