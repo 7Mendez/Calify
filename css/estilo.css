@@ -82,3 +82,21 @@
 #form2 input[type="submit"]:hover{
     background: #512da8;
 }
+
+
+.menu{
+    background: #ffffff;
+    width: 460px;
+    height: 100px;
+    margin: auto;
+    margin-top: 100px;
+    font-family: 'Raleway', sans-serif;
+}
+.contenedor{
+    background: #ffffff;
+    width: 700px;
+    height: 400px;
+    margin: auto;
+    margin-top: 100px;
+    font-family: 'Raleway', sans-serif;
+}
