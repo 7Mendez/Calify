@@ -9,7 +9,27 @@
 
 	</head>
 	<body>
-		
+        <div>
+            <h1></h1>
+        </div>
+            <table align="center" width="100%">
+                    <tr align="center">
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                        </tr>
+                    <tr align="center">
+                        <td>&nbsp;</td>
+                        <td>&nbsp;</td>
+                        <td>&nbsp;</td>
+                    </tr>
+                    <tr align="center">
+                        <td>&nbsp;</td>
+                        <td><img src="imagen/user2.png" width="60px" alt="" />
+                        </td>
+                        <td>&nbsp;</td>
+                    </tr>
+            </table>
 		
 	</body>
 </html>

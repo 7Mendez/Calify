@@ -28,16 +28,16 @@
 							</td>
 							<td>&nbsp;</td>
 						</tr>
-					  </table>
+				</table>
 				
 			<form id="form1">
 				
-				<input  type="text" name="" placeholder="Username"/>
+				<input  type="text" name="" placeholder="   	  M A T R I C U L A"/>
 				<hr>
 				
-				<input type="password" name="" placeholder="Password"/>
+				<input type="password" name="" placeholder=" 	C O N T R A S E Ñ A"/>
 				<hr>
-				<input type="submit" value="Acceder"/>
+				<input type="submit" value="A C C E D E R"/>
 
 			</form>
 		</div>
