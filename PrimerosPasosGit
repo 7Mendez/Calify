@@ -6,7 +6,7 @@ git init
 
 
 -- > Clonar Repositorio en Nube
-git remote add origin hhttps://github.com/7Mendez/Calify.git
+git remote add origin https://github.com/7Medez/Calify.git
 
 
 -- > Bajar Repositorio
