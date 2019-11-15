@@ -13,7 +13,7 @@ git remote add origin hhttps://github.com/7Mendez/Calify.git
 git pull origin master
 
 -- > Agregar Cambios al Repositorio
-git add.
+git add .
 
 -- > Crear un Commit Nuevo
 git commit -m "#nombre_del_commit"
