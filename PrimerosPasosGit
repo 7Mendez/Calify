@@ -24,3 +24,6 @@ git push origin master
 
 -- > Checar en que Branch estas (En caso que existan mas)*
 git checkout master
+
+
+LISTO!
