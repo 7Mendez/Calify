@@ -9,22 +9,18 @@
 
 	</head>
 	<body>
-        <div class="menu">
+        <div class="menu2">
             <h1 align="center">Escuela Secundaria</h1>
-            <h3>&nbsp;</h3>
             <h4 align="center">Calificaciones</h4>
         </div>
-        <div class="contenedor">
-            <table align="center" width="100%">
-                   
-                    <tr align="center">
-                        </tr>
-                    <tr align="center">
-                        <td>&nbsp;</td>
-                        <td>&nbsp;</td>
-                        <td>&nbsp;</td>
-                    </tr>
-            </table>
-		</div>
+        <nav>
+            <ul>
+                <li><a href=""></a>INICIO</li>
+                <li><a href=""></a>CALIFICACIONES</li>
+                <li><a href=""></a>CONTRASEÑA</li>
+                <li><a href=""></a>HORARIO</li>
+            </ul>
+        </nav>
+
 	</body>
 </html>
