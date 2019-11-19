@@ -9,10 +9,11 @@
 
 	</head>
 	<body>
-        <div class="menu2">
-            <h1 align="center">Escuela Secundaria</h1>
-            <h4 align="center">Calificaciones</h4>
-        </div>
+      
+        <input type="checkbox" id="chec">
+        <label for="chec">
+            <img src="imagen\menu.png">
+        </label>
         <nav>
             <ul>
                 <li><a href=""></a>INICIO</li>
