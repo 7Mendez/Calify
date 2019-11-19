@@ -133,9 +133,13 @@ nav{
     height: 100%;
     left: -350px;
     position: absolute;
+    transition: all .5s;
 }
 
-input[type="checkbox"]
+input[type="checkbox"]:checked  ~ nav
+{
+    transform: translateX(350px);
+}
 ul{
 
     top: 70px;
@@ -158,4 +162,5 @@ label{
 
     padding: 15px;
     position: absolute;
+    z-index: 1;
 }

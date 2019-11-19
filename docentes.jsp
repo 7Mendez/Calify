@@ -16,10 +16,10 @@
         </label>
         <nav>
             <ul>
-                <li><a href=""></a>INICIO</li>
-                <li><a href=""></a>CALIFICACIONES</li>
-                <li><a href=""></a>CONTRASEÑA</li>
-                <li><a href=""></a>HORARIO</li>
+                <li><a href="">INICIO</a></li>
+                <li><a href="">CALIFICACIONES</a></li>
+                <li><a href="">CONTRASEÑA</a></li>
+                <li><a href="">HORARIO</a></li>
             </ul>
         </nav>
 
