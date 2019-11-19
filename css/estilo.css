@@ -129,7 +129,7 @@ input[type="checkbox"]
 
 nav{
     background-color: rgba(16,16,16,.5);
-    width: 350px;
+    width: 270px;
     height: 100%;
     left: -350px;
     position: absolute;
@@ -149,7 +149,7 @@ ul{
 
 a{
     display: block;
-    padding: 20px 5px;
+    padding: 15px 30px;
     color: white;
 }
 
@@ -163,4 +163,12 @@ label{
     padding: 15px;
     position: absolute;
     z-index: 1;
+}
+
+div#pantalla{
+    margin-left: auto;
+    width: 100%;
+    height: 800px;
+    background-color: #d1c4e9;
+
 }

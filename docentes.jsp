@@ -16,12 +16,16 @@
         </label>
         <nav>
             <ul>
-                <li><a href="">INICIO</a></li>
-                <li><a href="">CALIFICACIONES</a></li>
-                <li><a href="">CONTRASEÑA</a></li>
-                <li><a href="">HORARIO</a></li>
+                <li><a href="">Inicio</a></li>
+                <li><a href="">Calificaciones</a></li>
+                <li><a href="">Contraseña</a></li>
+                <li><a href="">Horario</a></li>
             </ul>
         </nav>
+
+        <div id="pantalla">
+            
+        </div>
 
 	</body>
 </html>
